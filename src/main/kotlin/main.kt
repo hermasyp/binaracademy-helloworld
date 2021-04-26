@@ -1,3 +1,4 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    NumberTriangle().createNumberTriangle(10)
 }
+
